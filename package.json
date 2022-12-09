@@ -1,0 +1,13 @@
+{
+  "name": "@nverino/tiny",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "nverino/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "nverino"
+  ]
+}
