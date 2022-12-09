@@ -1,7 +1,7 @@
 # @nverino/tiny
 
 ![npm (scoped)](https://img.shields.io/npm/v/@nverino/tiny)
-![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/nverino/tiny)
+![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@nverino/tiny)
 
 Removes all spaces from a string.
 
